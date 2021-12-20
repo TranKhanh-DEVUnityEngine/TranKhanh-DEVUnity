@@ -1,0 +1,13 @@
+C:\Users\DTD\source\repos\max\bin\Debug\netcoreapp3.1\max.exe
+C:\Users\DTD\source\repos\max\bin\Debug\netcoreapp3.1\max.deps.json
+C:\Users\DTD\source\repos\max\bin\Debug\netcoreapp3.1\max.runtimeconfig.json
+C:\Users\DTD\source\repos\max\bin\Debug\netcoreapp3.1\max.runtimeconfig.dev.json
+C:\Users\DTD\source\repos\max\bin\Debug\netcoreapp3.1\max.dll
+C:\Users\DTD\source\repos\max\bin\Debug\netcoreapp3.1\max.pdb
+C:\Users\DTD\source\repos\max\obj\Debug\netcoreapp3.1\max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTD\source\repos\max\obj\Debug\netcoreapp3.1\max.AssemblyInfoInputs.cache
+C:\Users\DTD\source\repos\max\obj\Debug\netcoreapp3.1\max.AssemblyInfo.cs
+C:\Users\DTD\source\repos\max\obj\Debug\netcoreapp3.1\max.csproj.CoreCompileInputs.cache
+C:\Users\DTD\source\repos\max\obj\Debug\netcoreapp3.1\max.dll
+C:\Users\DTD\source\repos\max\obj\Debug\netcoreapp3.1\max.pdb
+C:\Users\DTD\source\repos\max\obj\Debug\netcoreapp3.1\max.genruntimeconfig.cache
