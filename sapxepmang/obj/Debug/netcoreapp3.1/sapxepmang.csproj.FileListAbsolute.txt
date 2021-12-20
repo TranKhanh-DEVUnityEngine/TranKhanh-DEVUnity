@@ -1,0 +1,14 @@
+C:\Users\DTD\source\repos\sapxepmang\bin\Debug\netcoreapp3.1\sapxepmang.exe
+C:\Users\DTD\source\repos\sapxepmang\bin\Debug\netcoreapp3.1\sapxepmang.deps.json
+C:\Users\DTD\source\repos\sapxepmang\bin\Debug\netcoreapp3.1\sapxepmang.runtimeconfig.json
+C:\Users\DTD\source\repos\sapxepmang\bin\Debug\netcoreapp3.1\sapxepmang.runtimeconfig.dev.json
+C:\Users\DTD\source\repos\sapxepmang\bin\Debug\netcoreapp3.1\sapxepmang.dll
+C:\Users\DTD\source\repos\sapxepmang\bin\Debug\netcoreapp3.1\sapxepmang.pdb
+C:\Users\DTD\source\repos\sapxepmang\obj\Debug\netcoreapp3.1\sapxepmang.csproj.AssemblyReference.cache
+C:\Users\DTD\source\repos\sapxepmang\obj\Debug\netcoreapp3.1\sapxepmang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTD\source\repos\sapxepmang\obj\Debug\netcoreapp3.1\sapxepmang.AssemblyInfoInputs.cache
+C:\Users\DTD\source\repos\sapxepmang\obj\Debug\netcoreapp3.1\sapxepmang.AssemblyInfo.cs
+C:\Users\DTD\source\repos\sapxepmang\obj\Debug\netcoreapp3.1\sapxepmang.csproj.CoreCompileInputs.cache
+C:\Users\DTD\source\repos\sapxepmang\obj\Debug\netcoreapp3.1\sapxepmang.dll
+C:\Users\DTD\source\repos\sapxepmang\obj\Debug\netcoreapp3.1\sapxepmang.pdb
+C:\Users\DTD\source\repos\sapxepmang\obj\Debug\netcoreapp3.1\sapxepmang.genruntimeconfig.cache
